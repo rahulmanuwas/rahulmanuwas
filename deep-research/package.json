@@ -1,0 +1,17 @@
+{
+  "name": "deep-research",
+  "version": "1.0.0",
+  "description": "",
+  "main": "something.js",
+  "scripts": {
+    "start": "ts-node something.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

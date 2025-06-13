@@ -134,6 +134,7 @@ I believe in continuous learning and documenting the journey. Here's where I sha
 
 - 📖 [**Learning Journey (May 2023 - May 2025)**](learning-journey/may_2023_to_may_2025.md) - A comprehensive overview of my learning journey over two years
 - 📝 [**June 2025 Monthly Log**](learning-journey/june_2025.md) - Current month's discoveries, experiments, and reflections
+- 🚀 [**Deep Research Project**](../deep-research) - A project to analyze and convert research papers into a structured JSON format.
 - 🔄 [**Current Focus**](learning-journey/june_2025.md#week-2-june-9-15-2025) - What I'm exploring this week
 
 *Updated regularly to keep my knowledge fresh!* 🌱
