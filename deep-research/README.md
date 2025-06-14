@@ -11,13 +11,32 @@ This script processes a specific JSON file format, extracts the markdown content
     ```
 
 2.  **Run the Script:**
-    Use the following command to execute the script. Replace `<input-json-file>` with the path to your JSON file and `<output-directory>` with your desired output folder.
+    Use the following command to execute the script. Replace `<input-json-file>` with the path to your JSON file, `<output-directory>` with your desired output folder, and optionally specify a citation style.
     ```bash
-    npx ts-node converter.ts <input-json-file> <output-directory>
+    npx ts-node converter.ts <input-json-file> <output-directory> [citation-style]
     ```
-    For example:
+
+### Citation Styles
+
+You can specify one of the following citation styles as the third argument:
+
+*   `superscript` (default): Clean numbered superscripts with references at the end.
+*   `inline`: Full citation inline with the text.
+*   `bracketed`: Source names in brackets.
+
+### Usage Examples
+
+*   **Default (superscript style):**
     ```bash
-    npx ts-node converter.ts deep-research-sample.json output
+    npx ts-node converter.ts input.json output/
+    ```
+*   **Inline citations:**
+    ```bash
+    npx ts-node converter.ts input.json output/ inline
+    ```
+*   **Bracketed citations:**
+    ```bash
+    npx ts-node converter.ts input.json output/ bracketed
     ```
 
 ## Acknowledgements
