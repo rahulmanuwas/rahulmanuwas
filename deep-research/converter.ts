@@ -36,113 +36,46 @@ interface Message {
  * Formats citations based on the specified style
  */
 function formatCitations(
-  markdownContent: string,
+  bodyContent: string,
+  sourcesSection: string,
   citations: Citation[],
   style: "superscript" | "inline" | "bracketed" = "superscript"
-): string {
-  const citationUrlMap = new Map<string, { url: string; title: string }>();
+): { processedBody: string; cleanedSources: string } {
+  const placeholderRegex = /【\d+†L\d+-L\d+】/g;
 
-  // Build citation map
-  for (const cit of citations) {
-    const extra = cit.metadata?.extra;
-    const url = cit.metadata?.url || cit.url || cit.metadata?.href || cit.metadata?.source_url;
-    
-    let title = (cit.metadata?.title || cit.title || "Untitled")
-      .replace(/\s+/g, " ")
-      .trim();
-    
-    // Clean up common URL artifacts from titles
-    title = title.replace(/#:~:text=.*$/, "").trim();
-    
-    if (title.length > 60) {
-      title = title.substring(0, 57) + "...";
-    }
-
-    if (extra && url) {
-      const placeholder = `【${extra.cited_message_idx}†L${extra.start_line_num}-L${extra.end_line_num}】`;
-      citationUrlMap.set(placeholder, { url, title });
-    }
-  }
-
-  const uniqueUrls = new Map<string, { number: number; title: string; domain: string }>();
-  let urlCounter = 1;
-
-  // Extract domain from URL for inline citations
-  const getDomain = (url: string): string => {
-    try {
-      const u = new URL(url);
-      return u.hostname.replace("www.", "");
-    } catch {
-      return "source";
-    }
-  };
-
-  // Replace citation placeholders based on style
-  let processedContent = markdownContent.replace(/(【[^】]+】)+/g, (match: string) => {
-    const placeholders = match.match(/【[^】]+】/g) || [];
-    const citationNumbers = new Set<number>();
-    const citationData: Array<{ url: string; title: string; domain: string }> = [];
-
-    for (const placeholder of placeholders) {
-      const citation = citationUrlMap.get(placeholder);
-      if (citation && citation.url) {
-        const domain = getDomain(citation.url);
-        
-        if (!uniqueUrls.has(citation.url)) {
-          uniqueUrls.set(citation.url, {
-            number: urlCounter++,
-            title: citation.title,
-            domain
-          });
-        }
-        
-        const data = uniqueUrls.get(citation.url);
-        if (data) {
-          citationNumbers.add(data.number);
-          citationData.push({ ...citation, domain });
-        }
-      }
-    }
-
-    if (citationNumbers.size === 0) return "";
-
-    const sortedNumbers = [...citationNumbers].sort((a, b) => a - b);
-
-    switch (style) {
-      case "superscript":
-        return sortedNumbers.map(n => `<sup>${n}</sup>`).join("");
-        
-      case "inline":
-        // For inline, use the first citation's data
-        const firstCitation = citationData[0];
-        return ` ([${firstCitation.title}](${firstCitation.url}))`;
-        
-      case "bracketed":
-        // Use domain names for bracketed style
-        const domains = [...new Set(citationData.map(c => c.domain))];
-        return ` [${domains.join(", ")}]`;
-        
-      default:
-        return sortedNumbers.map(n => `<sup>${n}</sup>`).join("");
+  // 1. Create a map from placeholder to the source number in the curated list
+  const placeholderToSourceNumberMap = new Map<string, number>();
+  const sourceLines = sourcesSection.split('\n');
+  sourceLines.forEach((line, index) => {
+    const sourceNumberMatch = line.match(/^(\d+)\./);
+    if (sourceNumberMatch) {
+      const sourceNumber = parseInt(sourceNumberMatch[1], 10);
+      const placeholders = line.match(placeholderRegex) || [];
+      placeholders.forEach(placeholder => {
+        placeholderToSourceNumberMap.set(placeholder, sourceNumber);
+      });
     }
   });
 
-  // Add reference section for superscript and bracketed styles
-  if ((style === "superscript" || style === "bracketed") && uniqueUrls.size > 0) {
-    let citationLinks = "\n\n---\n\n## References\n\n";
-    const sortedCitations = [...uniqueUrls.entries()].sort((a, b) => a[1].number - b[1].number);
-
-    for (const [url, { number, title }] of sortedCitations) {
-      if (url && url.trim() !== "") {
-        citationLinks += `${number}. [${title}](${url})\n`;
-      } else {
-        citationLinks += `${number}. ${title} (URL not available)\n`;
+  // 2. Replace placeholders in the body with the correct superscript number
+  const processedBody = bodyContent.replace(placeholderRegex, (match) => {
+    const sourceNumber = placeholderToSourceNumberMap.get(match);
+    if (sourceNumber) {
+      switch (style) {
+        case "superscript":
+          return `<sup>${sourceNumber}</sup>`;
+        // Add other style cases if needed, though problem description implies superscript
+        default:
+          return `<sup>${sourceNumber}</sup>`;
       }
     }
-    processedContent += citationLinks;
-  }
+    return ""; // Remove placeholder if no mapping is found
+  });
 
-  return processedContent;
+  // 3. Clean the placeholders from the sources section
+  const cleanedSources = sourcesSection.replace(placeholderRegex, "").trim();
+
+  return { processedBody, cleanedSources };
 }
 
 /**
@@ -204,7 +137,57 @@ async function main() {
     const citations = finalMessage.metadata?.citations;
     if (citations && Array.isArray(citations)) {
       console.log(`Processing ${citations.length} citations with style: ${citationStyle}`);
-      markdownContent = formatCitations(markdownContent, citations, citationStyle);
+      
+      // Split content to exclude the final "Sources" or "References" section from citation processing
+      const sourcesRegex = /\n(---\n\n)?\*\*?(Sources|References):\*\*?\n/i;
+      const match = markdownContent.match(sourcesRegex);
+      
+      let bodyContent = markdownContent;
+      let sourcesSection = "";
+
+      if (match && match.index) {
+        bodyContent = markdownContent.substring(0, match.index);
+        sourcesSection = markdownContent.substring(match.index);
+        
+        const { processedBody, cleanedSources } = formatCitations(
+          bodyContent,
+          sourcesSection,
+          citations,
+          citationStyle
+        );
+        
+        markdownContent = processedBody + cleanedSources;
+
+      } else {
+        // Fallback for documents without a clear sources section
+        // This re-implements the original logic in a simplified way
+        const citationUrlMap = new Map<string, { url: string; title: string }>();
+        for (const cit of citations) {
+            const extra = cit.metadata?.extra;
+            const url = cit.metadata?.url || cit.url || cit.metadata?.href || cit.metadata?.source_url;
+            if (extra && url) {
+                const placeholder = `【${extra.cited_message_idx}†L${extra.start_line_num}-L${extra.end_line_num}】`;
+                citationUrlMap.set(placeholder, { url, title: cit.metadata?.title || cit.title || "Untitled" });
+            }
+        }
+
+        let urlCounter = 1;
+        const uniqueUrls = new Map<string, number>();
+        markdownContent = markdownContent.replace(/(【[^】]+】)+/g, (match: string) => {
+            const placeholders = match.match(/【[^】]+】/g) || [];
+            const citationNumbers = new Set<number>();
+            for (const placeholder of placeholders) {
+                const citation = citationUrlMap.get(placeholder);
+                if (citation && citation.url) {
+                    if (!uniqueUrls.has(citation.url)) {
+                        uniqueUrls.set(citation.url, urlCounter++);
+                    }
+                    citationNumbers.add(uniqueUrls.get(citation.url)!);
+                }
+            }
+            return [...citationNumbers].sort((a, b) => a - b).map(n => `<sup>${n}</sup>`).join('');
+        });
+      }
     }
 
     // Extract title from the first line of markdown

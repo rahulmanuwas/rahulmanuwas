@@ -1,33 +1,45 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Rahul Yadav</h1>
+  <h1>Rahul Yadav</h1>
   
-  <h3>🤖 AI Engineer | ⛓️ Blockchain Expert | 🚀 Technical Product Leader</h3>
+  <h2>AI Engineer • Product Leader • Investment Strategist</h2>
   
-  <p><em>Building the future with AI and Web3 technologies</em></p>
+  <p><em>Transforming cutting-edge technology into market-ready products and investment opportunities</em></p>
   
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
+  [![Email](https://img.shields.io/badge/-rahul.manuwas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmanuwas)
-  [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rahulmanuwas)
+  [![Seoul,_Korea-📍-28A745?style=for-the-badge](https://img.shields.io/badge/Seoul,_Korea-📍-28A745?style=for-the-badge)](#)
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 Value Proposition
 
-I'm a **curiosity-driven software engineer** passionate about leveraging AI and Web3 technologies to develop innovative solutions. With extensive experience building agile teams and managing complex projects, I excel at fostering cross-border collaboration and identifying opportunities across various domains.
+**Bridging the gap between deep technical innovation and business strategy**
 
-```python
-# What drives me
-curiosity = True
-while curiosity:
-    learn_new_technologies()
-    build_innovative_solutions()
-    solve_complex_problems()
-```
+- **8+ years** building and scaling products from 0→1 to 50K+ users
+- **Proven track record** leading cross-functional teams and managing P&L
+- **Deep technical expertise** in AI/ML, blockchain, IoT and emerging technologies
+- **Market insight** from hands-on experience in Korean and Asian tech ecosystems
+- **Investment mindset** with systematic approach to technology evaluation and market analysis
+
+### 📈 **CYK Group (POWER KICK)** - Chief Technology Officer
+- **Business Impact**: Launched platforms acquiring **50,000+ active customers**
+- **Team Leadership**: Built and scaled engineering team of **20+ developers** across borders  
+- **Operational Excellence**: Reduced time-to-market by **50%** through strategic roadmap planning
+- **Budget Management**: Oversaw technology budget allocation and resource optimization
+
+### 🤖 **Blockchain Labs (Newnal)** - Technical Product Manager
+- **Innovation Leadership**: Spearheaded R&D for hyper-personal AI platform integrating GenAI, LLMs, and Voice AI
+- **Product Development**: Led end-to-end development of AI platform from concept to deployment
+- **Technology Integration**: Combined cutting-edge AI with practical business applications
+
+### 💼 **Independent Consulting** - Investment & Technology Advisor  
+- **Market Strategy**: Advised senior management on Web3 market entry strategies
+- **Technical Due Diligence, & Investment Insights**: Provided actionable insights influencing product roadmaps and investment decisions
 
 ---
 
-## 🔧 Technologies & Skills
+## 🛠️ Technical Expertise
 
 <details>
 <summary><b>🤖 Machine Learning & AI</b></summary>
@@ -80,69 +92,80 @@ while curiosity:
 
 ---
 
-## 🏆 Professional Experience
+## 🧠 Market Intelligence & Analysis
 
-<table>
-<tr>
-<td>
+### 📊 **Deep Research Platform** - *AI-Powered Market Analysis Tool*
+- **Purpose**: Convert complex research papers and market reports into structured, actionable insights
+- **Technology**: JSON-to-Markdown converter with multi-format citation processing
+- **Use Cases**: Investment thesis generation, competitive intelligence, market sizing analysis
+- **Impact**: Streamlines due diligence process for investment decisions
 
-**🔬 Technical Product Manager & Software Engineer**  
-*Blockchain Labs, Inc. (Seoul)*
-- R&D for hyper-personal AI combining GenAI, LLMs, AI Agents, Semantic Web, and WebRTC
-- Led development of Pet-i, an AI platform for pet-related services
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🎯 CTO**  
-*CYK Group (POWER KICK)*
-- Led product development reaching over 50,000 customers
-- Built and managed technical teams across borders
-- Oversaw strategic planning and resource allocation
-
-</td>
-</tr>
-</table>
+### 📈 **Investment Framework Development**
+- **Market Sizing**: Developed systematic approaches for TAM/SAM analysis in emerging tech sectors
+- **Technology Assessment**: Created evaluation matrices for AI/Web3 technology investments
+- **Risk Analysis**: Built frameworks for technical and business risk assessment
+- **Portfolio Strategy**: Experience advising on market entry and product positioning
 
 ---
 
+## 🏗️ Key Projects & Repositories
+
+### 🔬 **Research & Analysis Tools**
+- **[Deep Research Converter](deep-research/)** - Intelligent research paper processing with multiple citation formats
+- **Market Intelligence Platform** - Comprehensive analysis framework for emerging technologies
+- **Investment Due Diligence Templates** - Systematic evaluation tools for technical investments
+
+### 🚀 **Product Development**
+- **Pet-i AI Platform** - End-to-end AI solution for pet services industry
+- **Cryptocurrency Exchange Architecture** - Secure, scalable trading platform design
+- **Smart Contract Frameworks** - Ethereum-based tokenization and DeFi solutions
+
+### 📚 **Thought Leadership & Publications**
+- **Technical Architecture Guides** - Best practices for scalable AI/Web3 implementations
+- **Investment Framework Documentation** - Systematic approaches to technology evaluation
+- **Market Analysis Reports** - Strategic insights on emerging technology opportunities
+- **Team Building Methodologies** - Proven frameworks for scaling technical organizations
+
+---
+
+
+## 💼 Investment & Partnership Interests
+
+### 🎯 **Sectors of Focus**
+- **AI/ML Infrastructure** - LLM optimization, agent frameworks, and enterprise AI platforms
+- **Web3 Innovation** - DeFi protocols, tokenization platforms, and blockchain infrastructure  
+- **Korean Tech Ecosystem** - Bridging Asian innovation with global markets
+- **Developer Tools** - Productivity platforms and technical infrastructure solutions
+
+### 🤝 **Collaboration Opportunities**
+- **Technical Due Diligence** - Deep-dive technical assessment for investment decisions
+- **Product Strategy Consulting** - 0→1 product development and market entry planning
+- **Team Building & Leadership** - Scaling engineering teams and technical organizations
+- **Market Intelligence** - Emerging technology analysis and competitive landscape mapping
+
+---
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmanuwas)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rahulmanuwas)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulmanuwas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmanuwas&layout=compact&theme=radical&langs_count=8"/>
+
+[![Email](https://img.shields.io/badge/-rahul.manuwas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmanuwas)
+
+**Open to discussing**: Investment opportunities • Product partnerships • Technical advisory roles • Market insights
+
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahulmanuwas&theme=radical)](https://git.io/streak-stats)
-
 ---
 
-## 📚 My Learning Journey
-
-I believe in continuous learning and documenting the journey. Here's where I share my ongoing exploration of new technologies, insights, and experiments:
-
-- 📖 [**Learning Journey (May 2023 - May 2025)**](learning-journey/may_2023_to_may_2025.md) - A comprehensive overview of my learning journey over two years
-- 📝 [**June 2025 Monthly Log**](learning-journey/june_2025.md) - Current month's discoveries, experiments, and reflections
-- 🚀 [**Deep Research Project**](../deep-research) - A project to analyze and convert research papers into a structured JSON format.
-- 🔄 [**Current Focus**](learning-journey/june_2025.md#week-2-june-9-15-2025) - What I'm exploring this week
-
-*Updated regularly to keep my knowledge fresh!* 🌱
+## 📊 Technical Portfolio Overview
 
 <div align="center">
-  
----
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rahulmanuwas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmanuwas&layout=compact&theme=github_dark&langs_count=6"/>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/rahulmanuwas?label=Follow&style=social)](https://github.com/rahulmanuwas)
+<div align="center">
+
 
 </div>
