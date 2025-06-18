@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Rahul Yadav</h1>
   
-  <h2>AI Engineer • Product Leader • Investment Strategist</h2>
+  <h2>AI Engineer • Product Leader • Technical Evangelist</h2>
   
   <p><em>Transforming cutting-edge technology into market-ready products and investment opportunities</em></p>
   
-  [![Email](https://img.shields.io/badge/-rahul.manuwas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
+  [![Email](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmanuwas)
-  [![Seoul,_Korea-📍-28A745?style=for-the-badge](https://img.shields.io/badge/Seoul,_Korea-📍-28A745?style=for-the-badge)](#)
+  [![Seoul,_Korea-📍-28A745?style=for-the-badge](https://img.shields.io/badge/Seoul-📍-28A745?style=for-the-badge)](#)
 </div>
 
 ---
@@ -18,20 +18,20 @@
 
 - **8+ years** building and scaling products from 0→1 to 50K+ users
 - **Proven track record** leading cross-functional teams and managing P&L
-- **Deep technical expertise** in AI/ML, blockchain, IoT and emerging technologies
+- **Deep technical expertise** in AI/ML, Web3, IoT and emerging technologies
 - **Market insight** from hands-on experience in Korean and Asian tech ecosystems
 - **Investment mindset** with systematic approach to technology evaluation and market analysis
 
+### 🤖 **Blockchain Labs (Newnal)** - Technical Product Manager
+- **Innovation Leadership**: Spearheaded R&D for hyper-personal AI platform integrating GenAI, LAMs, LLMs, and Voice AI
+- **Product Development**: Led end-to-end development of AI application
+- **Technology Integration**: Combined cutting-edge AI with practical business applications
+
 ### 📈 **CYK Group (POWER KICK)** - Chief Technology Officer
 - **Business Impact**: Launched platforms acquiring **50,000+ active customers**
-- **Team Leadership**: Built and scaled engineering team of **20+ developers** across borders  
+- **Team Leadership**: Built and scaled engineering team of **10+ developers** across borders  
 - **Operational Excellence**: Reduced time-to-market by **50%** through strategic roadmap planning
 - **Budget Management**: Oversaw technology budget allocation and resource optimization
-
-### 🤖 **Blockchain Labs (Newnal)** - Technical Product Manager
-- **Innovation Leadership**: Spearheaded R&D for hyper-personal AI platform integrating GenAI, LLMs, and Voice AI
-- **Product Development**: Led end-to-end development of AI platform from concept to deployment
-- **Technology Integration**: Combined cutting-edge AI with practical business applications
 
 ### 💼 **Independent Consulting** - Investment & Technology Advisor  
 - **Market Strategy**: Advised senior management on Web3 market entry strategies
@@ -92,19 +92,46 @@
 
 ---
 
-## 🧠 Market Intelligence & Analysis
+## 🎮 Interactive Demos & Showcases
 
-### 📊 **Deep Research Platform** - *AI-Powered Market Analysis Tool*
-- **Purpose**: Convert complex research papers and market reports into structured, actionable insights
-- **Technology**: JSON-to-Markdown converter with multi-format citation processing
-- **Use Cases**: Investment thesis generation, competitive intelligence, market sizing analysis
-- **Impact**: Streamlines due diligence process for investment decisions
+### 🤖 **AI Agent Playground** - [Coming Soon →](#)
+Multi-agent system demonstrating RAG + LLM orchestration for complex tasks 
+
+### 🎯 **GenAI x Web3 Integration** - [Coming Soon →](#)
+Showcase of AI-powered smart contract analysis and optimization
+
+### 🗣️ **Voice AI Assistant** - [Coming Soon →](#)
+Real-time voice interaction using LiveKit + LLM integration
+
+### 📊 **Market Intelligence Dashboard** - [Coming Soon →](#)
+Interactive demo of AI-powered research analysis and investment insights
+
+---
+
+## 🧠 Technical Due Diligence & Market Analysis
+
+### 📊 **Technology Evaluation Framework**
+- Developed systematic approach for assessing AI/Web3 startups
+- Evaluated 20+ companies for technical feasibility and market fit
+- Created scoring matrices used by advisory clients for investment decisions
+- Built automated tools for technical architecture assessment
+
 
 ### 📈 **Investment Framework Development**
-- **Market Sizing**: Developed systematic approaches for TAM/SAM analysis in emerging tech sectors
-- **Technology Assessment**: Created evaluation matrices for AI/Web3 technology investments
-- **Risk Analysis**: Built frameworks for technical and business risk assessment
-- **Portfolio Strategy**: Experience advising on market entry and product positioning
+- **Market Sizing**: Systematic TAM/SAM analysis methodologies for emerging tech sectors
+- **Technology Assessment**: Evaluation matrices covering technical debt, scalability, and innovation potential
+- **Risk Analysis**: Frameworks for assessing technical and business risks in early-stage companies
+- **Portfolio Strategy**: Strategic insights on market entry and competitive positioning
+
+---
+
+## 🛠️ Rapid Prototyping & POC Development
+
+**Specialization**: 0→1 proof-of-concepts in 2-4 weeks
+- Built 15+ technical demos for product validation
+- Expertise in creating investor-ready prototypes  
+- Full-stack implementation from UI to AI backend
+- Experience with rapid iteration and user feedback integration
 
 ---
 
@@ -143,6 +170,13 @@
 - **Team Building & Leadership** - Scaling engineering teams and technical organizations
 - **Market Intelligence** - Emerging technology analysis and competitive landscape mapping
 
+### 🇰🇷 **Korea Tech Ecosystem Bridge**
+- Active in Seoul's AI/Web3 communities
+- Bilingual technical documentation capabilities
+- Understanding of Korean enterprise requirements
+- Timezone advantage for Asia-Pacific markets
+- Cultural bridge between Korean innovation and global markets
+
 ---
 
 ## 📫 Let's Connect
@@ -152,7 +186,11 @@
 [![Email](https://img.shields.io/badge/-rahul.manuwas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.manuwas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmanuwas)
 
-**Open to discussing**: Investment opportunities • Product partnerships • Technical advisory roles • Market insights
+**Let's collaborate on**:
+- 🎯 Technical demos for your AI/Web3 product
+- 🔍 Due diligence for Korean tech investments  
+- 📢 Developer evangelism and technical content
+- 🚀 0→1 product strategy and POC development
 
 </div>
 
