@@ -1,0 +1,1414 @@
+{
+  "task_id": "deepresch_68732e3fa3d48191bc46a40803211e88",
+  "final_message": {
+    "id": "6a636f76-8c39-4fd8-9861-404aac723a41",
+    "author": {
+      "role": "assistant",
+      "name": null,
+      "metadata": {}
+    },
+    "create_time": 1752379211.396113,
+    "update_time": null,
+    "content": {
+      "content_type": "text",
+      "parts": [
+        "# Valuation of OO.AI in the Current Search Market Landscape\n\n**Open Research (OO.AI)** is a high-growth AI search startup with a strong team and early traction. With **2 million monthly active users** (as of May 2025) and a cutting-edge “AI search copilot” product, the company is well-positioned in the evolving search industry. To estimate the **value of OO.AI**, we can compare it against both **tech giants in search** and **peer AI search startups**:\n\n## Industry Giants: Market Caps of Leading Search Engines\n\nEven as a startup, OO.AI operates in a market dominated by huge incumbents. For perspective, here are the market capitalizations of major search engine companies:\n\n- **Alphabet (Google)** – The global search leader has a market cap around **$2.19 trillion** as of mid-2025【20†L22-L27】, reflecting Google’s virtually monopolistic search share and massive advertising revenue. Google’s scale underscores the ultimate market potential of search businesses (Google’s search advertising generates hundreds of billions in revenue annually).\n\n- **Naver** – South Korea’s top search portal (and a key local competitor to OO.AI) is valued at approximately **$27.4 billion** in mid-2025【19†L112-L119】. Naver’s valuation highlights the significant value of a dominant search platform in a single country – it combines search with services like e-commerce and content, with 2025 revenue around $7.8 billion【5†L19-L27】.\n\n- **Baidu** – Often called the “Google of China,” Baidu’s market cap is about **$30 billion** as of mid-2025【20†L49-L57】. Baidu’s value has fluctuated, but it remains a multi-billion dollar public company built primarily on search and AI services in the Chinese market.\n\nThese public benchmarks show that leading search platforms command **multi-billion to trillion-dollar valuations**, supported by large user bases and monetization via ads and commerce. While OO.AI is at an earlier stage, the size of these incumbents illustrates the **long-term upside** if an AI search engine can capture significant market share.\n\n## AI Search Startups: Funding and Valuations\n\nA wave of **AI-powered search and chatbot** startups has emerged recently, many seeing rapid growth in users and investor interest. Benchmarking OO.AI against these peers provides insight into its potential valuation. Notable examples include:\n\n- **Perplexity AI** – A Silicon Valley-based AI answer engine (somewhat akin to OO.AI) that has experienced explosive growth. Perplexity’s **valuation skyrocketed to about $9 billion in 2024** after a major funding round【4†L185-L193】. In fact, by May 2025 it was in talks to raise another $500 million at a **$14 billion valuation**【4†L166-L174】. This reflects extreme investor enthusiasm for AI search tools delivering direct answers (Perplexity’s user base hit ~15 million and it even drew interest from Apple to integrate into Safari【4†L185-L193】). While this is a global outlier, it shows how high valuations can climb for category leaders in AI search.\n\n- **You.com** – An AI-driven search startup founded by former Salesforce execs. *You.com* has a freemium search and productivity platform (charging ~$15/month for premium)【9†L204-L212】. In mid-2024, You.com raised a Series B round of **$50 million that valued the company around $700–900 million**【9†L167-L175】. At that time, they had ~11 million monthly visitors (down from a 20M peak) and about 1 billion total queries served【9†L171-L179】. This valuation in the high hundreds of millions, despite modest revenue, was driven by growth potential in AI search assistants. *(Notably, The Information later reported You.com sought a $1.4B valuation in another round, signaling rising expectations.)*\n\n- **Neeva** – A cautionary tale: Neeva launched as an **ad-free, subscription search engine**, raised ~$77M in funding, but struggled to scale consumer adoption. In May 2023, it was **acquired by Snowflake for about $150 million**【27†L1036-L1044】. Neeva’s outcome (selling for roughly 2× its funding raised) shows that not all search startups achieve sky-high valuations – market traction is critical.\n\n- **DuckDuckGo** – While not an AI startup, DuckDuckGo is a popular privacy-focused search engine that remains private and profitable. It serves ~100 million searches per day and surpassed $100M annual revenue. Estimates in 2021–2022 put DuckDuckGo’s valuation in the **hundreds of millions (around $900M to $1B)**【26†L1-L4】. This demonstrates that a niche search engine with a loyal user base can approach unicorn status, even without cutting-edge AI, by carving out a strong market niche.\n\n- **Wrtn (South Korea)** – Wrtn Technologies is a Korean AI startup offering an **AI search and content “super-app”** (and thus a direct local competitor to OO.AI). Wrtn’s AI search service, launched in 2023, quickly attracted millions of users (especially younger Koreans)【15†L89-L97】【15†L92-L100】. Investors have taken notice: **Wrtn raised ₩108 billion (~$73.5M) in Series B funding in March 2025【13†L38-L46】**, just 9 months after a ₩25B pre-Series B round. This brings Wrtn’s total funding to ~₩130B (~$88M)【13†L40-L46】. While its post-money valuation wasn’t disclosed, such funding size likely implies a valuation in the few-hundred-million dollar range. Wrtn’s ability to secure $70M+ in one round underlines the high **investor confidence in AI search platforms**, especially those targeting local language content and aiming to challenge incumbents (Wrtn openly aims to *“replace Google and Naver”* in Korea【15†L66-L74】). \n\n- **Upstage (Korea)** – Upstage isn’t a consumer search engine, but it’s a Korean AI company in the broader **AI information retrieval** space (offering enterprise AI assistants). It raised ₩100B (>$72M) by April 2024, putting its valuation around **₩400 billion (~$300M)** in early 2024【18†L9-L17】. This shows that Korean AI startups with strong tech (large language models, etc.) are reaching **mid-nine-figure valuations** even before turning profitable, due to growth prospects.\n\nAcross these examples, high-growth AI search startups are commonly **valued in the hundreds of millions to low billions** depending on traction:\n\n- Those with **global reach and millions of users (Perplexity)** are hitting multi-billion valuations in a year or two【4†L185-L193】.\n- Region-focused or niche players (You.com, Wrtn) land in the **$300M–$900M** valuation range at Series A/B stages【9†L167-L175】【13†L38-L46】.\n- Some early efforts that didn’t gain enough users (Neeva) ended up in the low hundreds of millions (essentially an acqui-hire at $150M)【27†L1036-L1044】.\n\nThese benchmarks suggest that **active user base growth and technological differentiation** are key drivers of value in this space, even more so than immediate revenue (most AI search startups are pre-profit, monetizing lightly via freemium subscriptions or B2B APIs).\n\n## Implications for OO.AI’s Valuation\n\nGiven this landscape, **what might OO.AI be worth?** While an exact valuation requires detailed financials, we can make some observations:\n\n- **Strong Early Traction:** OO.AI officially launched in March 2025 and rapidly grew to **1 million MAU by April and 2 million by May 2025** (per company milestones). This user growth within months is impressive, indicating product-market fit. For context, if growth continues (the company projects 10 million users by Q4 2025, which would make it one of Korea’s top 4 platforms), OO.AI’s user base could rival or exceed those of some peers like You.com. High user engagement underpins higher valuations in this sector.\n\n- **Cutting-Edge AI Technology:** OO.AI’s value is bolstered by its proprietary AI search technology. It analyzes “hundreds of web documents” per query to synthesize comprehensive answers in real time【0†L0-L0】【0†L0-L0】 (versus ~10 documents used by some other AI search services). It delivers **detailed, report-like answers** with source citations, and has managed to keep response speeds fast (aiming near traditional Google search speed) as usage scales. This technical moat – developed by a team of ex-Kakao Brain AI experts – makes OO.AI a compelling competitor in the AI search field. Investors tend to assign premium valuations to strong AI teams and differentiated algorithms, anticipating future network effects or defensibility.\n\n- **Monetization Plans:** Currently, OO.AI is **free to users**, which has likely helped it grow quickly through word-of-mouth. The company envisions a **freemium model**: a consumer subscription (~$7/month for higher query limits or premium features) and B2B offerings, alongside potential advertising or e-commerce integrations later. This is similar to You.com’s model (You.com charges $15/month for premium access)【9†L204-L212】, but OO.AI’s lower price point and local focus could attract a broad paying user base in Korea. If even a small fraction of the 2M+ MAU convert to paid plans, recurring revenue will start to build. Additionally, OO.AI is aggressively optimizing its AI inference costs (aiming to cut cost per query from ₩70 to ₩10 by next year, according to internal IR notes), which would make an ad-supported or commerce referral model economically viable. The path to monetization – and eventual profitability by ~2027–28 as the company projects – gives investors a line of sight to returns, supporting a higher valuation multiple on forward revenues.\n\n- **Funding and Investor Sentiment:** The company raised **₩10 billion (~$7.5M) in a seed round in July 2024** at its inception, backed by top VCs (LB, Mirae Asset, BonAngels) as noted in its press release. That seed valuation (not publicly disclosed) likely fell in the **$25–40M range**, typical for a strong team in AI. Now in mid-2025, OO.AI is reportedly seeking a **Series A/Series B of ₩50B (~$37M)** (Q3 2025) to fuel expansion. If we benchmark against Wrtn or You.com’s rounds, a fresh $37M raise could imply the investors see OO.AI’s total value on the order of **a few hundred million USD**. For example, raising ~$37M might be done at, say, a $150–300M pre-money valuation (purely an illustrative range) depending on growth and negotiation. This would put OO.AI in line with other high-growth AI search startups at a similar stage. \n\n- **Comparables:** To sanity-check this range, consider that Wrtn (with a similar Korean user base size and broader feature set) secured ~$73M in one round, likely valuing it a few times higher. You.com with global reach but growth challenges was ~$800M post-money in 2024【9†L169-L177】. Perplexity, the breakout star, was already $1B → $9B in 2024【3†L7-L15】. OO.AI’s valuation would likely lie *below* Perplexity’s (which has a global audience and >15M users), but could approach or surpass the **$100M+ mark** comfortably, given its momentum. If OO.AI can sustain **“high-growth startup” metrics** (e.g. doubling users quarter-over-quarter, strong retention and engagement), investors may price it closer to the upper end of a few hundred million dollars in anticipation of future dominance in its niche (Korean AI search). \n\nIn summary, **OO.AI’s value is plausibly in the high tens to hundreds of millions of dollars today**, with a trajectory toward *unicorn status* ($1B+) in the coming 1-2 years if its user growth and market penetration continue. The **search space** is enormous (as Google’s $2T+ market cap attests【20†L22-L27】), and AI-driven entrants are starting to grab a share – e.g. AI search engines are expected to reach **30% of search market usage by 2026** (up from almost zero a couple years ago, according to industry projections in OO.AI’s IR data). Investors are therefore assigning significant value to companies like OO.AI that can ride this trend:\n\n- On the **low end**, a functional AI search startup with a few million users (and limited revenue) might be valued comparable to an acqui-hire, a few hundred million KRW, but OO.AI has clearly surpassed that stage with its substantial funding and user base.\n- **Mid-range valuations** in this sector (hundreds of millions USD) are justified by the combination of user growth, unique technology, and strategic position as a Google/Naver alternative. DuckDuckGo’s ~$900M implied worth for a 1% US market share shows a precedent for a niche search engine being highly valued【26†L1-L4】.\n- With continued traction, OO.AI could join the likes of **You.com or Wrtn in the $500M–$1B** valuation range in the foreseeable future. Reaching 10+ million MAU and successfully launching monetization would support such valuations. Notably, **Perplexity’s $9–14B valuation** trajectory【4†L185-L193】 demonstrates the upside if a company becomes a leader in AI search, though that is a global play.\n\n**Bottom Line:** *Considering the market comps*, OO.AI is likely already a **nine-figure valuation company (USD)** in 2025. Its exact value will ultimately be determined by investors in the next funding round, but benchmarks from both **public search giants** and **peer startups** suggest that OO.AI, with its 2M+ users and advanced AI platform, could be valued on the order of **several hundred million dollars** today. If it continues its high growth and executes well, it has a credible path to become a **unicorn** in the AI search space, especially as the overall search market pivots toward AI-driven solutions. The significant market caps of Google (~$2T) and Naver (~$27B) underscore the opportunity, while the fundraising valuations of Perplexity ($9B+【4†L185-L193】) and You.com (~$800M【9†L169-L177】) provide reference points for what investors are willing to pay for the **“next generation” search engines**. In short, **OO.AI’s value can be viewed as a high-growth tech startup with unicorn potential**, anchored by comparables in the search industry’s valuation spectrum. \n\n**Sources:** Key valuations and metrics were referenced from recent data on industry leaders and startups, including Alphabet/Google【20†L22-L27】, Naver【19†L112-L119】, Baidu【20†L49-L57】, Perplexity AI【4†L185-L193】, You.com【9†L167-L175】, Wrtn【13†L38-L46】, DuckDuckGo【26†L1-L4】, and the disclosed details of OO.AI’s own funding and growth (Open Research IR materials). Each illustrates how the market is pricing search and AI search companies in 2025, which informs the valuation perspective for OO.AI."
+      ]
+    },
+    "status": "finished_successfully",
+    "end_turn": true,
+    "weight": 1,
+    "metadata": {
+      "citations": [
+        {
+          "start_ix": 788,
+          "end_ix": 800,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+            "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Alphabet%20market%20cap%20history%20and,61B",
+            "text": "Alphabet market cap history and chart from 2010 to 2025. Market capitalization (or market value) is the most commonly used method of measuring the size of a publicly traded company and is calculated by multiplying the current stock price by the number of shares outstanding. Alphabet market cap as of July 11, 2025 is $2186.61B.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 20,
+              "cited_message_id": "c492d3fe-60f2-406d-af8d-7d5a672e50eb",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 22,
+              "end_line_num": 27,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 1192,
+          "end_ix": 1206,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Naver (035420.KS) - Market capitalization",
+            "url": "https://companiesmarketcap.com/naver/marketcap/#:~:text=Market%20cap%3A%20%2427",
+            "text": "Market cap: $27.42 Billion USD",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 19,
+              "cited_message_id": "8e5e94f2-072c-435c-b3b8-729287d8fc15",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 112,
+              "end_line_num": 119,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 1410,
+          "end_ix": 1421,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Naver (035420.KS) - Revenue - Companies Market Cap",
+            "url": "https://companiesmarketcap.com/naver/revenue/#:~:text=Naver%20%28035420.KS%29%20,In%202024%20the",
+            "text": "Naver (035420.KS) - Revenue - Companies Market Cap Revenue in 2025 (TTM): $7.81 Billion USD. According to Naver's latest financial reports the company's current revenue (TTM ) is $7.81 Billion USD. In 2024 the ...",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 5,
+              "cited_message_id": "ae4dbb9a-ec93-4dfd-953a-494b3d5ab31c",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 19,
+              "end_line_num": 27,
+              "connector_source": ""
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 1532,
+          "end_ix": 1544,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+            "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Shopify%20%28SHOP%29%20%20Canada%20%24145,38",
+            "text": "Shopify (SHOP)  Canada $145.449B 115.58  25 United States $101.885B 312.26 Trade Desk (TTD)  United States $37.045B 91.93  27 China $30.030B 9.75 KE Holdings (BEKE)  China $22.330B 33.00  29 United States $18.836B 0.00 Rakuten (RKUNY)  Japan $11.661B 0.00  31 United States $11.313B 17.59 Square Enix Holdings (SQNXF) Japan $8.468B 50.38",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 20,
+              "cited_message_id": "c492d3fe-60f2-406d-af8d-7d5a672e50eb",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 49,
+              "end_line_num": 57,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 2556,
+          "end_ix": 2569,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+            "text": "million and $1 billion at an $18 billion valuation.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 185,
+              "end_line_num": 193,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 2668,
+          "end_ix": 2681,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=May%2012%20%28Reuters%29%20,people%20familiar%20with%20the%20matter",
+            "text": "May 12 (Reuters) - Perplexity AI is in advanced talks to raise $500 million in a funding round that would value the startup at $14 billion, the Wall Street Journal reported on Monday, citing people familiar with the matter.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 166,
+              "end_line_num": 174,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 2872,
+          "end_ix": 2885,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+            "text": "million and $1 billion at an $18 billion valuation.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 185,
+              "end_line_num": 193,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 3166,
+          "end_ix": 3179,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=millions%20of%20users",
+            "text": "millions of users.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 204,
+              "end_line_num": 212,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 3292,
+          "end_ix": 3305,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=SAN%20FRANCISCO%2C%20June%2017%20,for%20assistants%20with%20artificial%20intelligence",
+            "text": "SAN FRANCISCO, June 17 (Reuters) - The startup behind You.com is raising $50 million in fresh capital, a person familiar with the effort said, as it seeks a foothold in the growing market for assistants with artificial intelligence.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 167,
+              "end_line_num": 175,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 3422,
+          "end_ix": 3435,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=The%20near,its%20launch%2C%20the%20person%20said",
+            "text": "The near-finished Series B funding would value the four-year-old company behind You.com, SuSea Inc, at $700 million to $900 million, the person told Reuters. Users have queried You.com 1 billion times since its launch, the person said.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 171,
+              "end_line_num": 179,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 3923,
+          "end_ix": 3939,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Snowflake Inc. acquired Neeva, Inc. for approximately $150 million. | MarketScreener",
+            "url": "https://www.marketscreener.com/quote/stock/SNOWFLAKE-INC-112440376/news/Snowflake-Inc-acquired-Neeva-Inc-for-approximately-150-million-43956814/#:~:text=Share",
+            "text": "Share",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 27,
+              "cited_message_id": "4d57a66e-75dd-4de5-b5da-c14672ded3a4",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 1036,
+              "end_line_num": 1044,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 4410,
+          "end_ix": 4420,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "DuckDuckGo Stats on Revenue and User Data Statistics (2023)",
+            "url": "https://webology.io/duckduckgo-stats-revenue-and-user-data/#:~:text=DuckDuckGo%20has%20grown%20steadily%20over,once%20the%20numbers%20are%20all",
+            "text": "DuckDuckGo has grown steadily over the years and is now worth an estimated $900 million to $1 billion. The privacy-oriented search engine raked in reported revenue of $25 million in 2019, followed by a further increase of $30 million in 2020, with 2021 expected to see even higher profits once the numbers are all",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 26,
+              "cited_message_id": "8b57e51c-91ff-4eda-ac75-e7bdd421f051",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 1,
+              "end_line_num": 4,
+              "connector_source": ""
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 4861,
+          "end_ix": 4873,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean startup Wrtn aims to popularize AI search engine platform - 매일경제 영문뉴스 펄스(Pulse)",
+            "url": "https://pulse.mk.co.kr/news/english/11086011#:~:text=Wrtn%E2%80%99s%20AI%20search%20service%2C%20which,significant%20traction%20among%20young%20Koreans",
+            "text": "Wrtn’s AI search service, which launched last year, has gained significant traction among young Koreans.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 15,
+              "cited_message_id": "a042e476-6f97-4049-93c3-099a71ad5eaa",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 89,
+              "end_line_num": 97,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 4873,
+          "end_ix": 4886,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean startup Wrtn aims to popularize AI search engine platform - 매일경제 영문뉴스 펄스(Pulse)",
+            "url": "https://pulse.mk.co.kr/news/english/11086011#:~:text=This%20popularity%20is%20attributed%20to,experience%20tailored%20to%20Korean%20users",
+            "text": "This popularity is attributed to the platform’s unique ability to improve response quality through interactions with millions of Koreans, offering a specialized AI search experience tailored to Korean users.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 15,
+              "cited_message_id": "a042e476-6f97-4049-93c3-099a71ad5eaa",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 92,
+              "end_line_num": 100,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 4987,
+          "end_ix": 4999,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+            "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=Wrtn%20Technologies%2C%20a%20Seoul,presence%2C%20the%20firm%20said%20Monday",
+            "text": "Wrtn Technologies, a Seoul-based AI startup, raised a total of 108 billion won ($73.5 million) in its round Series B funding as it looks to expand its global presence, the firm said Monday.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 13,
+              "cited_message_id": "3297aaef-1e1c-4f51-b6f2-50313e68694a",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 38,
+              "end_line_num": 46,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 5100,
+          "end_ix": 5112,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+            "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=presence%2C%20the%20firm%20said%20Monday",
+            "text": "presence, the firm said Monday.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 13,
+              "cited_message_id": "3297aaef-1e1c-4f51-b6f2-50313e68694a",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 40,
+              "end_line_num": 46,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 5504,
+          "end_ix": 5516,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean startup Wrtn aims to popularize AI search engine platform - 매일경제 영문뉴스 펄스(Pulse)",
+            "url": "https://pulse.mk.co.kr/news/english/11086011#:~:text=South%20Korean%20artificial%20intelligence%20,of%20its%20Answer%20Engine%20Division",
+            "text": "South Korean artificial intelligence (AI) startup Wrtn Technologies Inc. aims to replace traditional search engines with its innovative AI search platform, according to Park Min-jun, head of its Answer Engine Division.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 15,
+              "cited_message_id": "a042e476-6f97-4049-93c3-099a71ad5eaa",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 66,
+              "end_line_num": 74,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 5808,
+          "end_ix": 5819,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Upstage on Track to Become Korea's First Generative AI Unicorn ...",
+            "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=236084#:~:text=Upstage%20on%20Track%20to%20Become,growth%20and%20the%20increasing",
+            "text": "Upstage on Track to Become Korea's First Generative AI Unicorn ... The company's valuation was around 400 billion won as of the first half of last year, highlighting its rapid growth and the increasing ...",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 18,
+              "cited_message_id": "c1d5b767-21d0-4820-b58b-42cfa11c20e1",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 9,
+              "end_line_num": 17,
+              "connector_source": ""
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 6269,
+          "end_ix": 6282,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+            "text": "million and $1 billion at an $18 billion valuation.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 185,
+              "end_line_num": 193,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 6398,
+          "end_ix": 6411,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=SAN%20FRANCISCO%2C%20June%2017%20,for%20assistants%20with%20artificial%20intelligence",
+            "text": "SAN FRANCISCO, June 17 (Reuters) - The startup behind You.com is raising $50 million in fresh capital, a person familiar with the effort said, as it seeks a foothold in the growing market for assistants with artificial intelligence.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 167,
+              "end_line_num": 175,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 6411,
+          "end_ix": 6423,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+            "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=Wrtn%20Technologies%2C%20a%20Seoul,presence%2C%20the%20firm%20said%20Monday",
+            "text": "Wrtn Technologies, a Seoul-based AI startup, raised a total of 108 billion won ($73.5 million) in its round Series B funding as it looks to expand its global presence, the firm said Monday.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 13,
+              "cited_message_id": "3297aaef-1e1c-4f51-b6f2-50313e68694a",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 38,
+              "end_line_num": 46,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 6561,
+          "end_ix": 6577,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Snowflake Inc. acquired Neeva, Inc. for approximately $150 million. | MarketScreener",
+            "url": "https://www.marketscreener.com/quote/stock/SNOWFLAKE-INC-112440376/news/Snowflake-Inc-acquired-Neeva-Inc-for-approximately-150-million-43956814/#:~:text=Share",
+            "text": "Share",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 27,
+              "cited_message_id": "4d57a66e-75dd-4de5-b5da-c14672ded3a4",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 1036,
+              "end_line_num": 1044,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 7751,
+          "end_ix": 7760,
+          "citation_format_type": "tether_v4",
+          "invalid_reason": "Error while extracting cite metadata: Missing URL / text for tether browsing display - bool(url)=False bool(text)=False"
+        },
+        {
+          "start_ix": 7760,
+          "end_ix": 7769,
+          "citation_format_type": "tether_v4",
+          "invalid_reason": "Error while extracting cite metadata: Missing URL / text for tether browsing display - bool(url)=False bool(text)=False"
+        },
+        {
+          "start_ix": 8709,
+          "end_ix": 8722,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=millions%20of%20users",
+            "text": "millions of users.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 204,
+              "end_line_num": 212,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 10480,
+          "end_ix": 10493,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=foothold%20in%20the%20growing%20market,for%20assistants%20with%20artificial%20intelligence",
+            "text": "foothold in the growing market for assistants with artificial intelligence.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 169,
+              "end_line_num": 177,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 10555,
+          "end_ix": 10565,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Perplexity AI Statistics And Facts (2025)",
+            "url": "https://electroiq.com/stats/perplexity-ai-statistics/#:~:text=engine%20sector,growth",
+            "text": "engine sector. By the end of 2024, the company achieved a valuation of USD 9 billion, a significant increase from USD 1 billion in April 2024, following a USD 500 million funding round led by Institutional Venture Partners. The platform’s user base expanded to 15 million active users, marking a 50% growth",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 3,
+              "cited_message_id": "9fba469e-4573-4eff-bfbc-806d1a62a9f3",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 7,
+              "end_line_num": 15,
+              "connector_source": ""
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 11331,
+          "end_ix": 11343,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+            "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Alphabet%20market%20cap%20history%20and,61B",
+            "text": "Alphabet market cap history and chart from 2010 to 2025. Market capitalization (or market value) is the most commonly used method of measuring the size of a publicly traded company and is calculated by multiplying the current stock price by the number of shares outstanding. Alphabet market cap as of July 11, 2025 is $2186.61B.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 20,
+              "cited_message_id": "c492d3fe-60f2-406d-af8d-7d5a672e50eb",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 22,
+              "end_line_num": 27,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 12255,
+          "end_ix": 12265,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "DuckDuckGo Stats on Revenue and User Data Statistics (2023)",
+            "url": "https://webology.io/duckduckgo-stats-revenue-and-user-data/#:~:text=DuckDuckGo%20has%20grown%20steadily%20over,once%20the%20numbers%20are%20all",
+            "text": "DuckDuckGo has grown steadily over the years and is now worth an estimated $900 million to $1 billion. The privacy-oriented search engine raked in reported revenue of $25 million in 2019, followed by a further increase of $30 million in 2020, with 2021 expected to see even higher profits once the numbers are all",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 26,
+              "cited_message_id": "8b57e51c-91ff-4eda-ac75-e7bdd421f051",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 1,
+              "end_line_num": 4,
+              "connector_source": ""
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 12553,
+          "end_ix": 12566,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+            "text": "million and $1 billion at an $18 billion valuation.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 185,
+              "end_line_num": 193,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13428,
+          "end_ix": 13441,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+            "text": "million and $1 billion at an $18 billion valuation.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 185,
+              "end_line_num": 193,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13462,
+          "end_ix": 13475,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=foothold%20in%20the%20growing%20market,for%20assistants%20with%20artificial%20intelligence",
+            "text": "foothold in the growing market for assistants with artificial intelligence.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 169,
+              "end_line_num": 177,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13885,
+          "end_ix": 13897,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+            "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Alphabet%20market%20cap%20history%20and,61B",
+            "text": "Alphabet market cap history and chart from 2010 to 2025. Market capitalization (or market value) is the most commonly used method of measuring the size of a publicly traded company and is calculated by multiplying the current stock price by the number of shares outstanding. Alphabet market cap as of July 11, 2025 is $2186.61B.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 20,
+              "cited_message_id": "c492d3fe-60f2-406d-af8d-7d5a672e50eb",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 22,
+              "end_line_num": 27,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13904,
+          "end_ix": 13918,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Naver (035420.KS) - Market capitalization",
+            "url": "https://companiesmarketcap.com/naver/marketcap/#:~:text=Market%20cap%3A%20%2427",
+            "text": "Market cap: $27.42 Billion USD",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 19,
+              "cited_message_id": "8e5e94f2-072c-435c-b3b8-729287d8fc15",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 112,
+              "end_line_num": 119,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13925,
+          "end_ix": 13937,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+            "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Shopify%20%28SHOP%29%20%20Canada%20%24145,38",
+            "text": "Shopify (SHOP)  Canada $145.449B 115.58  25 United States $101.885B 312.26 Trade Desk (TTD)  United States $37.045B 91.93  27 China $30.030B 9.75 KE Holdings (BEKE)  China $22.330B 33.00  29 United States $18.836B 0.00 Rakuten (RKUNY)  Japan $11.661B 0.00  31 United States $11.313B 17.59 Square Enix Holdings (SQNXF) Japan $8.468B 50.38",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 20,
+              "cited_message_id": "c492d3fe-60f2-406d-af8d-7d5a672e50eb",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 49,
+              "end_line_num": 57,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13952,
+          "end_ix": 13965,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+            "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+            "text": "million and $1 billion at an $18 billion valuation.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 4,
+              "cited_message_id": "bdf5332f-3743-4f27-a214-471f6814ceb7",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 185,
+              "end_line_num": 193,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13974,
+          "end_ix": 13987,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+            "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=SAN%20FRANCISCO%2C%20June%2017%20,for%20assistants%20with%20artificial%20intelligence",
+            "text": "SAN FRANCISCO, June 17 (Reuters) - The startup behind You.com is raising $50 million in fresh capital, a person familiar with the effort said, as it seeks a foothold in the growing market for assistants with artificial intelligence.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 9,
+              "cited_message_id": "93a8c54e-0597-4913-9954-1b26abf1fd68",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 167,
+              "end_line_num": 175,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 13993,
+          "end_ix": 14005,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+            "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=Wrtn%20Technologies%2C%20a%20Seoul,presence%2C%20the%20firm%20said%20Monday",
+            "text": "Wrtn Technologies, a Seoul-based AI startup, raised a total of 108 billion won ($73.5 million) in its round Series B funding as it looks to expand its global presence, the firm said Monday.",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 13,
+              "cited_message_id": "3297aaef-1e1c-4f51-b6f2-50313e68694a",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 38,
+              "end_line_num": 46,
+              "connector_source": null
+            },
+            "og_tags": null
+          }
+        },
+        {
+          "start_ix": 14017,
+          "end_ix": 14027,
+          "citation_format_type": "tether_v4",
+          "metadata": {
+            "type": "webpage",
+            "title": "DuckDuckGo Stats on Revenue and User Data Statistics (2023)",
+            "url": "https://webology.io/duckduckgo-stats-revenue-and-user-data/#:~:text=DuckDuckGo%20has%20grown%20steadily%20over,once%20the%20numbers%20are%20all",
+            "text": "DuckDuckGo has grown steadily over the years and is now worth an estimated $900 million to $1 billion. The privacy-oriented search engine raked in reported revenue of $25 million in 2019, followed by a further increase of $30 million in 2020, with 2021 expected to see even higher profits once the numbers are all",
+            "pub_date": null,
+            "extra": {
+              "cited_message_idx": 26,
+              "cited_message_id": "8b57e51c-91ff-4eda-ac75-e7bdd421f051",
+              "search_result_idx": null,
+              "evidence_text": "",
+              "start_line_num": 1,
+              "end_line_num": 4,
+              "connector_source": ""
+            },
+            "og_tags": null
+          }
+        }
+      ],
+      "content_references": [
+        {
+          "matched_text": "【20†L22-L27】",
+          "start_idx": 788,
+          "end_idx": 800,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+          "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Alphabet%20market%20cap%20history%20and,61B",
+          "pub_date": null,
+          "snippet": "Alphabet market cap history and chart from 2010 to 2025. Market capitalization (or market value) is the most commonly used method of measuring the size of a publicly traded company and is calculated by multiplying the current stock price by the number of shares outstanding. Alphabet market cap as of July 11, 2025 is $2186.61B.",
+          "attribution": "macrotrends.net",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【19†L112-L119】",
+          "start_idx": 1192,
+          "end_idx": 1206,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Naver (035420.KS) - Market capitalization",
+          "url": "https://companiesmarketcap.com/naver/marketcap/#:~:text=Market%20cap%3A%20%2427",
+          "pub_date": null,
+          "snippet": "Market cap: $27.42 Billion USD",
+          "attribution": "companiesmarketcap.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【5†L19-L27】",
+          "start_idx": 1410,
+          "end_idx": 1421,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Naver (035420.KS) - Revenue - Companies Market Cap",
+          "url": "https://companiesmarketcap.com/naver/revenue/#:~:text=Naver%20%28035420.KS%29%20,In%202024%20the",
+          "pub_date": null,
+          "snippet": "Naver (035420.KS) - Revenue - Companies Market Cap Revenue in 2025 (TTM): $7.81 Billion USD. According to Naver's latest financial reports the company's current revenue (TTM ) is $7.81 Billion USD. In 2024 the ...",
+          "attribution": "companiesmarketcap.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【20†L49-L57】",
+          "start_idx": 1532,
+          "end_idx": 1544,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+          "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Shopify%20%28SHOP%29%20%20Canada%20%24145,38",
+          "pub_date": null,
+          "snippet": "Shopify (SHOP)  Canada $145.449B 115.58  25 United States $101.885B 312.26 Trade Desk (TTD)  United States $37.045B 91.93  27 China $30.030B 9.75 KE Holdings (BEKE)  China $22.330B 33.00  29 United States $18.836B 0.00 Rakuten (RKUNY)  Japan $11.661B 0.00  31 United States $11.313B 17.59 Square Enix Holdings (SQNXF) Japan $8.468B 50.38",
+          "attribution": "macrotrends.net",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L185-L193】",
+          "start_idx": 2556,
+          "end_idx": 2569,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+          "pub_date": null,
+          "snippet": "million and $1 billion at an $18 billion valuation.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L166-L174】",
+          "start_idx": 2668,
+          "end_idx": 2681,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=May%2012%20%28Reuters%29%20,people%20familiar%20with%20the%20matter",
+          "pub_date": null,
+          "snippet": "May 12 (Reuters) - Perplexity AI is in advanced talks to raise $500 million in a funding round that would value the startup at $14 billion, the Wall Street Journal reported on Monday, citing people familiar with the matter.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L185-L193】",
+          "start_idx": 2872,
+          "end_idx": 2885,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+          "pub_date": null,
+          "snippet": "million and $1 billion at an $18 billion valuation.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L204-L212】",
+          "start_idx": 3166,
+          "end_idx": 3179,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=millions%20of%20users",
+          "pub_date": null,
+          "snippet": "millions of users.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L167-L175】",
+          "start_idx": 3292,
+          "end_idx": 3305,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=SAN%20FRANCISCO%2C%20June%2017%20,for%20assistants%20with%20artificial%20intelligence",
+          "pub_date": null,
+          "snippet": "SAN FRANCISCO, June 17 (Reuters) - The startup behind You.com is raising $50 million in fresh capital, a person familiar with the effort said, as it seeks a foothold in the growing market for assistants with artificial intelligence.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L171-L179】",
+          "start_idx": 3422,
+          "end_idx": 3435,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=The%20near,its%20launch%2C%20the%20person%20said",
+          "pub_date": null,
+          "snippet": "The near-finished Series B funding would value the four-year-old company behind You.com, SuSea Inc, at $700 million to $900 million, the person told Reuters. Users have queried You.com 1 billion times since its launch, the person said.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【27†L1036-L1044】",
+          "start_idx": 3923,
+          "end_idx": 3939,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Snowflake Inc. acquired Neeva, Inc. for approximately $150 million. | MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/SNOWFLAKE-INC-112440376/news/Snowflake-Inc-acquired-Neeva-Inc-for-approximately-150-million-43956814/#:~:text=Share",
+          "pub_date": null,
+          "snippet": "Share",
+          "attribution": "marketscreener.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【26†L1-L4】",
+          "start_idx": 4410,
+          "end_idx": 4420,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "DuckDuckGo Stats on Revenue and User Data Statistics (2023)",
+          "url": "https://webology.io/duckduckgo-stats-revenue-and-user-data/#:~:text=DuckDuckGo%20has%20grown%20steadily%20over,once%20the%20numbers%20are%20all",
+          "pub_date": null,
+          "snippet": "DuckDuckGo has grown steadily over the years and is now worth an estimated $900 million to $1 billion. The privacy-oriented search engine raked in reported revenue of $25 million in 2019, followed by a further increase of $30 million in 2020, with 2021 expected to see even higher profits once the numbers are all",
+          "attribution": "webology.io",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【15†L89-L97】",
+          "start_idx": 4861,
+          "end_idx": 4873,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean startup Wrtn aims to popularize AI search engine platform - 매일경제 영문뉴스 펄스(Pulse)",
+          "url": "https://pulse.mk.co.kr/news/english/11086011#:~:text=Wrtn%E2%80%99s%20AI%20search%20service%2C%20which,significant%20traction%20among%20young%20Koreans",
+          "pub_date": null,
+          "snippet": "Wrtn’s AI search service, which launched last year, has gained significant traction among young Koreans.",
+          "attribution": "pulse.mk.co.kr",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【15†L92-L100】",
+          "start_idx": 4873,
+          "end_idx": 4886,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean startup Wrtn aims to popularize AI search engine platform - 매일경제 영문뉴스 펄스(Pulse)",
+          "url": "https://pulse.mk.co.kr/news/english/11086011#:~:text=This%20popularity%20is%20attributed%20to,experience%20tailored%20to%20Korean%20users",
+          "pub_date": null,
+          "snippet": "This popularity is attributed to the platform’s unique ability to improve response quality through interactions with millions of Koreans, offering a specialized AI search experience tailored to Korean users.",
+          "attribution": "pulse.mk.co.kr",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【13†L38-L46】",
+          "start_idx": 4987,
+          "end_idx": 4999,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+          "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=Wrtn%20Technologies%2C%20a%20Seoul,presence%2C%20the%20firm%20said%20Monday",
+          "pub_date": null,
+          "snippet": "Wrtn Technologies, a Seoul-based AI startup, raised a total of 108 billion won ($73.5 million) in its round Series B funding as it looks to expand its global presence, the firm said Monday.",
+          "attribution": "koreajoongangdaily.joins.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【13†L40-L46】",
+          "start_idx": 5100,
+          "end_idx": 5112,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+          "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=presence%2C%20the%20firm%20said%20Monday",
+          "pub_date": null,
+          "snippet": "presence, the firm said Monday.",
+          "attribution": "koreajoongangdaily.joins.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【15†L66-L74】",
+          "start_idx": 5504,
+          "end_idx": 5516,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean startup Wrtn aims to popularize AI search engine platform - 매일경제 영문뉴스 펄스(Pulse)",
+          "url": "https://pulse.mk.co.kr/news/english/11086011#:~:text=South%20Korean%20artificial%20intelligence%20,of%20its%20Answer%20Engine%20Division",
+          "pub_date": null,
+          "snippet": "South Korean artificial intelligence (AI) startup Wrtn Technologies Inc. aims to replace traditional search engines with its innovative AI search platform, according to Park Min-jun, head of its Answer Engine Division.",
+          "attribution": "pulse.mk.co.kr",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【18†L9-L17】",
+          "start_idx": 5808,
+          "end_idx": 5819,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Upstage on Track to Become Korea's First Generative AI Unicorn ...",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=236084#:~:text=Upstage%20on%20Track%20to%20Become,growth%20and%20the%20increasing",
+          "pub_date": null,
+          "snippet": "Upstage on Track to Become Korea's First Generative AI Unicorn ... The company's valuation was around 400 billion won as of the first half of last year, highlighting its rapid growth and the increasing ...",
+          "attribution": "businesskorea.co.kr",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L185-L193】",
+          "start_idx": 6269,
+          "end_idx": 6282,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+          "pub_date": null,
+          "snippet": "million and $1 billion at an $18 billion valuation.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L167-L175】",
+          "start_idx": 6398,
+          "end_idx": 6411,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=SAN%20FRANCISCO%2C%20June%2017%20,for%20assistants%20with%20artificial%20intelligence",
+          "pub_date": null,
+          "snippet": "SAN FRANCISCO, June 17 (Reuters) - The startup behind You.com is raising $50 million in fresh capital, a person familiar with the effort said, as it seeks a foothold in the growing market for assistants with artificial intelligence.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【13†L38-L46】",
+          "start_idx": 6411,
+          "end_idx": 6423,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+          "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=Wrtn%20Technologies%2C%20a%20Seoul,presence%2C%20the%20firm%20said%20Monday",
+          "pub_date": null,
+          "snippet": "Wrtn Technologies, a Seoul-based AI startup, raised a total of 108 billion won ($73.5 million) in its round Series B funding as it looks to expand its global presence, the firm said Monday.",
+          "attribution": "koreajoongangdaily.joins.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【27†L1036-L1044】",
+          "start_idx": 6561,
+          "end_idx": 6577,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Snowflake Inc. acquired Neeva, Inc. for approximately $150 million. | MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/SNOWFLAKE-INC-112440376/news/Snowflake-Inc-acquired-Neeva-Inc-for-approximately-150-million-43956814/#:~:text=Share",
+          "pub_date": null,
+          "snippet": "Share",
+          "attribution": "marketscreener.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【0†L0-L0】",
+          "start_idx": 7751,
+          "end_idx": 7760,
+          "alt": null,
+          "type": "hidden",
+          "invalid": true
+        },
+        {
+          "matched_text": "【0†L0-L0】",
+          "start_idx": 7760,
+          "end_idx": 7769,
+          "alt": null,
+          "type": "hidden",
+          "invalid": true
+        },
+        {
+          "matched_text": "【9†L204-L212】",
+          "start_idx": 8709,
+          "end_idx": 8722,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=millions%20of%20users",
+          "pub_date": null,
+          "snippet": "millions of users.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L169-L177】",
+          "start_idx": 10480,
+          "end_idx": 10493,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=foothold%20in%20the%20growing%20market,for%20assistants%20with%20artificial%20intelligence",
+          "pub_date": null,
+          "snippet": "foothold in the growing market for assistants with artificial intelligence.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【3†L7-L15】",
+          "start_idx": 10555,
+          "end_idx": 10565,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Perplexity AI Statistics And Facts (2025)",
+          "url": "https://electroiq.com/stats/perplexity-ai-statistics/#:~:text=engine%20sector,growth",
+          "pub_date": null,
+          "snippet": "engine sector. By the end of 2024, the company achieved a valuation of USD 9 billion, a significant increase from USD 1 billion in April 2024, following a USD 500 million funding round led by Institutional Venture Partners. The platform’s user base expanded to 15 million active users, marking a 50% growth",
+          "attribution": "electroiq.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【20†L22-L27】",
+          "start_idx": 11331,
+          "end_idx": 11343,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+          "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Alphabet%20market%20cap%20history%20and,61B",
+          "pub_date": null,
+          "snippet": "Alphabet market cap history and chart from 2010 to 2025. Market capitalization (or market value) is the most commonly used method of measuring the size of a publicly traded company and is calculated by multiplying the current stock price by the number of shares outstanding. Alphabet market cap as of July 11, 2025 is $2186.61B.",
+          "attribution": "macrotrends.net",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【26†L1-L4】",
+          "start_idx": 12255,
+          "end_idx": 12265,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "DuckDuckGo Stats on Revenue and User Data Statistics (2023)",
+          "url": "https://webology.io/duckduckgo-stats-revenue-and-user-data/#:~:text=DuckDuckGo%20has%20grown%20steadily%20over,once%20the%20numbers%20are%20all",
+          "pub_date": null,
+          "snippet": "DuckDuckGo has grown steadily over the years and is now worth an estimated $900 million to $1 billion. The privacy-oriented search engine raked in reported revenue of $25 million in 2019, followed by a further increase of $30 million in 2020, with 2021 expected to see even higher profits once the numbers are all",
+          "attribution": "webology.io",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L185-L193】",
+          "start_idx": 12553,
+          "end_idx": 12566,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+          "pub_date": null,
+          "snippet": "million and $1 billion at an $18 billion valuation.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L185-L193】",
+          "start_idx": 13428,
+          "end_idx": 13441,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+          "pub_date": null,
+          "snippet": "million and $1 billion at an $18 billion valuation.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L169-L177】",
+          "start_idx": 13462,
+          "end_idx": 13475,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=foothold%20in%20the%20growing%20market,for%20assistants%20with%20artificial%20intelligence",
+          "pub_date": null,
+          "snippet": "foothold in the growing market for assistants with artificial intelligence.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【20†L22-L27】",
+          "start_idx": 13885,
+          "end_idx": 13897,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+          "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Alphabet%20market%20cap%20history%20and,61B",
+          "pub_date": null,
+          "snippet": "Alphabet market cap history and chart from 2010 to 2025. Market capitalization (or market value) is the most commonly used method of measuring the size of a publicly traded company and is calculated by multiplying the current stock price by the number of shares outstanding. Alphabet market cap as of July 11, 2025 is $2186.61B.",
+          "attribution": "macrotrends.net",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【19†L112-L119】",
+          "start_idx": 13904,
+          "end_idx": 13918,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Naver (035420.KS) - Market capitalization",
+          "url": "https://companiesmarketcap.com/naver/marketcap/#:~:text=Market%20cap%3A%20%2427",
+          "pub_date": null,
+          "snippet": "Market cap: $27.42 Billion USD",
+          "attribution": "companiesmarketcap.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【20†L49-L57】",
+          "start_idx": 13925,
+          "end_idx": 13937,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Alphabet Market Cap 2010-2025 | GOOGL | MacroTrends",
+          "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/market-cap#:~:text=Shopify%20%28SHOP%29%20%20Canada%20%24145,38",
+          "pub_date": null,
+          "snippet": "Shopify (SHOP)  Canada $145.449B 115.58  25 United States $101.885B 312.26 Trade Desk (TTD)  United States $37.045B 91.93  27 China $30.030B 9.75 KE Holdings (BEKE)  China $22.330B 33.00  29 United States $18.836B 0.00 Rakuten (RKUNY)  Japan $11.661B 0.00  31 United States $11.313B 17.59 Square Enix Holdings (SQNXF) Japan $8.468B 50.38",
+          "attribution": "macrotrends.net",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【4†L185-L193】",
+          "start_idx": 13952,
+          "end_idx": 13965,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "AI firm Perplexity eyes $14 billion in valuation in fresh funding round, WSJ reports | Reuters",
+          "url": "https://www.reuters.com/technology/ai-firm-perplexity-eyes-14-billion-valuation-fresh-funding-round-wsj-reports-2025-05-12/#:~:text=million%20and%20%241%20billion%20at,an%20%2418%20billion%20valuation",
+          "pub_date": null,
+          "snippet": "million and $1 billion at an $18 billion valuation.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【9†L167-L175】",
+          "start_idx": 13974,
+          "end_idx": 13987,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "You.com startup is raising $50 mln as it targets AI-assistant market, says source | Reuters",
+          "url": "https://www.reuters.com/technology/artificial-intelligence/youcom-startup-is-raising-50-mln-it-targets-ai-assistant-market-says-source-2024-06-17/#:~:text=SAN%20FRANCISCO%2C%20June%2017%20,for%20assistants%20with%20artificial%20intelligence",
+          "pub_date": null,
+          "snippet": "SAN FRANCISCO, June 17 (Reuters) - The startup behind You.com is raising $50 million in fresh capital, a person familiar with the effort said, as it seeks a foothold in the growing market for assistants with artificial intelligence.",
+          "attribution": "reuters.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【13†L38-L46】",
+          "start_idx": 13993,
+          "end_idx": 14005,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "Korean AI startup Wrtn Technologies raises 108 billion won in Series B",
+          "url": "https://koreajoongangdaily.joins.com/news/2025-03-31/business/tech/Korean-AI-startup-Wrtn-Technologies-raises-108-billion-won-in-Series-B/2274162#:~:text=Wrtn%20Technologies%2C%20a%20Seoul,presence%2C%20the%20firm%20said%20Monday",
+          "pub_date": null,
+          "snippet": "Wrtn Technologies, a Seoul-based AI startup, raised a total of 108 billion won ($73.5 million) in its round Series B funding as it looks to expand its global presence, the firm said Monday.",
+          "attribution": "koreajoongangdaily.joins.com",
+          "icon_type": null
+        },
+        {
+          "matched_text": "【26†L1-L4】",
+          "start_idx": 14017,
+          "end_idx": 14027,
+          "alt": null,
+          "type": "webpage_extended",
+          "title": "DuckDuckGo Stats on Revenue and User Data Statistics (2023)",
+          "url": "https://webology.io/duckduckgo-stats-revenue-and-user-data/#:~:text=DuckDuckGo%20has%20grown%20steadily%20over,once%20the%20numbers%20are%20all",
+          "pub_date": null,
+          "snippet": "DuckDuckGo has grown steadily over the years and is now worth an estimated $900 million to $1 billion. The privacy-oriented search engine raked in reported revenue of $25 million in 2019, followed by a further increase of $30 million in 2020, with 2021 expected to see even higher profits once the numbers are all",
+          "attribution": "webology.io",
+          "icon_type": null
+        }
+      ],
+      "timestamp_": "absolute",
+      "message_type": null,
+      "completion_modapi_results": {
+        "flagged": null,
+        "blocked": false,
+        "block_completion": null,
+        "moderation_id": "modr-2558",
+        "category_scores": {
+          "A1": 0.0014585035510965513,
+          "A2": 0.00002653023768982879,
+          "A3": 0.000005475976980449466,
+          "C1": 0.001378247679463746,
+          "C11": 0.0001048469267161009,
+          "C2": 0.000026119031909571944,
+          "E1": 0.000020342697805520655,
+          "E2": 0.000003822911232549001,
+          "E3": 0.000004832563818725537,
+          "H1": 0.00004512106237781923,
+          "H2": 0.000010229985472581487,
+          "H3": 0.000001363134508591315,
+          "JB1": 0.00017274586267297022,
+          "K1": 0.0017132097546659712,
+          "K2": 0.002430959651780803,
+          "K3": 0.0004834013071774788,
+          "K4": 0.0000021444948420913954,
+          "P1": 0.12787645802235517,
+          "P2": 0.019984932155189657,
+          "P3": 0.000058840881855693875,
+          "P4": 0.00007321812616608614,
+          "PD1": 0.011710957217937423,
+          "PD4": 0.0002477644286442631,
+          "S1": 0.000005307507822667365,
+          "S3+": 0.0000015689549727726036,
+          "S4": 5.093705003229987e-7,
+          "SH": 0.000006502816785764437,
+          "TXT-C3": 0.000009461262661302227,
+          "TXT-C4": 0.0000041335397768930325,
+          "V1": 0.000709825223291598,
+          "V2+": 0.0008865817223419501,
+          "V4+": 0.0000025071593847983196,
+          "REFUSED": 0.0027148042381544904,
+          "CBRN-B1+": 0.0023153411092838466,
+          "IMG-C1": 1.136563710667868e-7,
+          "IMG-C11": 0.000019110431587777674,
+          "IMG-C2": 0.000024156629828672456,
+          "IMG-S1": 0.000033015272509780104,
+          "IMG-SH": 0.004063868548339518,
+          "IMG-V1": 0.007095686470463076,
+          "IMG-V2+": 0.0048924142210063915,
+          "IMG-V4+": 0.00006361912109467577
+        },
+        "source": "omni-moderation-005",
+        "disclaimers": null,
+        "metadata": null,
+        "mod_decision": {
+          "block_categories": [],
+          "flag_categories": []
+        },
+        "modapi_refusal": null
+      }
+    },
+    "recipient": "all",
+    "channel": "final"
+  },
+  "was_recently_completed": false
+}

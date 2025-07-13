@@ -187,6 +187,20 @@ async function main() {
             }
             return [...citationNumbers].sort((a, b) => a - b).map(n => `<sup>${n}</sup>`).join('');
         });
+
+        // Generate references section
+        if (uniqueUrls.size > 0) {
+            const referencesList: string[] = [];
+            const urlToNumber = Array.from(uniqueUrls.entries()).sort((a, b) => a[1] - b[1]);
+            
+            for (const [url, number] of urlToNumber) {
+                const citationInfo = Array.from(citationUrlMap.values()).find(c => c.url === url);
+                const title = citationInfo?.title || "Untitled";
+                referencesList.push(`${number}. ${title} - ${url}`);
+            }
+            
+            markdownContent += "\n\n## References\n\n" + referencesList.join('\n');
+        }
       }
     }
 
