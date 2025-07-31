@@ -46,9 +46,8 @@
 
 <!-- Generated nightly via lowlighter/metrics (see .github/workflows/metrics.yml) -->
 
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
 
-> *The metrics card above is rebuilt every 24 h via a GitHub Action and includes private contributions, languages, streaks, and repository insights without relying on the public Vercel instance.*
 
 ## 🌱 Currently Learning
 
