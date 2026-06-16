@@ -1,55 +1,27 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for Claude Code (claude.ai/code) when working in this repository.
 
-## Development Commands
+## What this repo is
 
-### Deep Research Project
-- **Install dependencies**: `npm install` (in deep-research/)
-- **Run converter**: `npx ts-node converter.ts <input-json> <output-dir> [citation-style]` (in deep-research/)
-- **Type checking**: `npx tsc --noEmit` (in deep-research/)
-- **Build**: `npx tsc` (in deep-research/)
+This is the GitHub **profile repository** (`rahulmanuwas/rahulmanuwas`). Because
+the repo name matches the username, its `README.md` renders on the GitHub
+profile page at https://github.com/rahulmanuwas.
 
-### Citation Styles
-The converter supports three citation formats:
-- `superscript` (default): Clean numbered superscripts with references at the end
-- `inline`: Full citation inline with the text
-- `bracketed`: Source names in brackets
+## Structure
 
-## Project Architecture
+- `README.md` — the profile page shown on GitHub. Keep it tight and current.
+- `github-metrics.svg` — generated stats image embedded in the README.
+- `.github/workflows/metrics.yml` — GitHub Action that regenerates
+  `github-metrics.svg` nightly (03:00 UTC) via `lowlighter/metrics`.
 
-### Repository Structure
-This is a professional portfolio repository focused on showcasing technical leadership and investment capabilities:
+## Maintenance notes
 
-1. **deep-research/**: AI-Powered Market Intelligence Platform
-   - Converts research papers and market reports from JSON format to structured analysis
-   - Handles multiple citation styles and source formatting for investment research
-   - Enables due diligence acceleration and investment thesis generation
-   - Based on work by hrishioa with custom business-focused enhancements
-
-### Key Technical Details
-
-**TypeScript Configuration**:
-- Strict mode enabled with ES2022 target
-- CommonJS modules for Node.js compatibility
-- Type definitions for complex JSON structures (Citation, Message interfaces)
-
-**Data Processing**:
-- Processes JSON files with nested citation metadata
-- Regex-based placeholder replacement for citation formatting
-- File system operations for batch processing
-
-**Code Patterns**:
-- Interface-driven development with clear type definitions
-- Functional approach to data transformation
-- Error handling through file existence checks
-
-## File Naming Conventions
-- Research outputs: Descriptive names with hyphens for clarity
-- TypeScript files: camelCase with clear purpose indication
-- Documentation files: Descriptive names reflecting business value
-
-## Important Notes
-- Utility-focused tools with validation and error handling
-- Portfolio repository showcasing technical leadership and market analysis capabilities
-- Professional showcase repository - demonstrating business-focused technical solutions
+- `github-metrics.svg` is **generated** — don't hand-edit it except as a quick
+  stopgap; the next workflow run overwrites it. To refresh on demand, run the
+  "Metrics" workflow manually (Actions tab → Run workflow).
+- The workflow needs a `METRICS_TOKEN` repo secret: a **classic** GitHub PAT
+  with `repo` and `read:org` scopes (fine-grained tokens break several plugins).
+- `plugin_activity` and `plugin_achievements` are intentionally disabled — the
+  achievements plugin is broken upstream (lowlighter/metrics#1479). Don't
+  re-enable them unless that bug is fixed.

@@ -8,15 +8,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: rahulmanuwas
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
+
+          # Contributions calendar (isometric, full year)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Most-used languages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -27,16 +31,17 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
+          # Lines of code changed
           plugin_lines: yes
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+
+          # Repositories you recently interacted with
           plugin_followup: yes
           plugin_followup_sections: repositories
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+
+          # NOTE: plugin_activity and plugin_achievements were removed.
+          # plugin_achievements is broken upstream (lowlighter/metrics#1479):
+          # GitHub changed its search page so the plugin can no longer fetch
+          # global counts, producing "Unexpected error" and sometimes hanging
+          # the job for 10+ minutes. plugin_activity was also failing.
+          # Re-add them only once the upstream bug is fixed.
