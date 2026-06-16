@@ -1,56 +1,71 @@
 <h1 align="center">Rahul Yadav</h1>
 
 <p align="center">
-  <b>AI Engineer · Full‑Stack Architect · Product Leader</b>
+  <b>Building AI agents you can trust — with money and in the physical world.</b>
 </p>
 
 <p align="center">
-  <i>10+ years designing and shipping production systems across<br/>
-  Voice AI · Robotics · Blockchain · Enterprise Automation</i>
+  AI Engineer &amp; Founder · 10+ years shipping production systems<br/>
+  Agentic AI · Voice AI · Robotics · Onchain · Seoul 🇰🇷
 </p>
 
 <p align="center">
-  <a href="mailto:rahul.manuwas@gmail.com"><img src="https://img.shields.io/badge/Email-rahul.manuwas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/rahulmanuwas"><img src="https://img.shields.io/badge/LinkedIn-rahulmanuwas-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Seoul,%20South%20Korea-28A745?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <a href="mailto:rahul.manuwas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/rahulmanuwas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm building
+
+> Autonomous agents are about to move real money and act in the physical world.
+> I build the guardrails, interfaces, and infrastructure that make that safe.
+
+### Stealth&nbsp;1 — financial memory for AI agents
+
+**Financially-safe autonomy for agent wallets.** A TypeScript CLI + MCP server that captures
+the *why* behind every agent transaction — decision traces, runtime policy enforcement
+(*"spec is law"*), human-in-the-loop approvals, and fleet management across many agents.
+
+> *"Blockchains record what happened — this records why."*
+
+`TypeScript` · `Bun` · `MCP` · `Convex` · `SQLite`
+
+### Stealth&nbsp;2 — voice-controlled robotics
+
+Real-time **voice → movement** pipeline for 6-DOF Universal Robots in **under 500 ms**, built on
+LiveKit Agents + Gemini Live. Interactive 3D control, multi-robot scaling (UR3e/5e/10e), and
+**60–80% cost savings** through smart agent reuse.
+
+`Python` · `LiveKit` · `Gemini Live` · `WebRTC` · `Docker`
+
+### Stealth&nbsp;3 — site for a quantum-tech VC
+
+Designed and shipped the live site for a Seoul private-equity / venture firm investing in
+quantum and frontier technologies.
+
+`React` · `TypeScript` · `Tailwind` · `shadcn/ui`
+
+<sub>🔒 Building in stealth — happy to share a deeper look under NDA.</sub>
+
+---
+
+## 🧰 Focus
+
+**AI agents & LLM tooling** (MCP · RAG · evals) &nbsp;·&nbsp; **Voice AI** &nbsp;·&nbsp; **Robotics**
+&nbsp;·&nbsp; **Onchain / Solidity** &nbsp;—&nbsp; shipping in **TypeScript** &amp; **Python**
+
+---
+
+## 📊 Build activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="./github-metrics.svg" alt="Rahul's GitHub activity">
 </p>
 
 ---
 
-## 📊 GitHub Metrics
-
-<!-- Generated nightly via lowlighter/metrics (see .github/workflows/metrics.yml) -->
-
 <p align="center">
-  <img src="./github-metrics.svg" alt="Rahul's GitHub metrics">
+  <b>Building at the intersection of AI agents, robotics, or onchain?</b><br/>
+  <a href="mailto:rahul.manuwas@gmail.com">Let's talk →</a>
 </p>
-
----
-
-## 🤝 Let's Connect
-
-Have an exciting idea or looking for collaboration? **Reach out — I'd love to chat.**
